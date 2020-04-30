@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COVIDStat</string>
+    <string name="country_name">country_name</string>
+    <string name="capital_name">capital_name</string>
+    <string name="developer_name">Ivan Surya H</string>
+    <string name="hobby">I love coding and photography</string>
+    <string name="isi_about">I was born in Surabaya, Indonesia in 1997. Received bachelor degree in electrical engineering at Petra Christian University, Indonesia in 2019. Then continue my study of master degree at Electrical Engineering and Computer Science in National Chiao Tung University, Taiwan. My field of interest includes Artificial Intelligence, IoT, robotics, and automation. My hobbies that sometimes also becoming my side-job are videographies, photographies, and design. This application is supported by dicoding</string>
+    <string name="country_code">country_code</string>
+    <string name="_7_days_ago">7 days ago</string>
+    <string name="total_case">Total</string>
+    />
+</resources>
